@@ -1,4 +1,4 @@
-> NOTICE:- To visit the project go [here](https://github.com/webCrisp/SkinZen/).
+> NOTICE:- To visit the project go [here](https://github.com/webCrisp/SkinZen/) and you can also view the [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vSOqM6THSd07KN4pXpUqAE-sXdpcptFRAU8lfnVpc5hqLWKuZlyKJgGMWbWI7rVB4tru6Tpk8XqMRAc/pub?start=true&loop=false&delayms=3000) for this project.
 
 # Skin Zen: Personalized Acne Severity Detection and Recommendation Web-Based Product
 
